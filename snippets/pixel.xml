@@ -8,7 +8,7 @@
   
   <remote name="pixel-j607f"
           fetch="https://github.com/PixelExperience-J607F"
-          revision="thirteen"
+          revision="wip/thirteen"
           review="gerrit.pixelexperience.org" />
 
   <remote name="pixel-gitlab"
